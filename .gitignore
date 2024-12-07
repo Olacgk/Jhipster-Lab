@@ -4,3 +4,6 @@
 /ms2/target/*
 /gateway/.git
 /gateway/target/*
+
+*.java
+target/
